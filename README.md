@@ -1,2 +1,2 @@
 # free-code-camp
-A repository for projects I complete while going through Free Code Camp
+A repository for projects I have completed while taking FreeCodeCamp courses.
